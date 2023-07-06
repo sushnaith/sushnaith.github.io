@@ -1,4 +1,4 @@
-023# Hello Word(?)
+# Hello Word(?)
 Setting up this github thingy to start writing on the web. 
 Why write now you say?
 * **It’s about time.** I have always felt that I have nothing to say/to add to the conversation so never felt the need to write.
