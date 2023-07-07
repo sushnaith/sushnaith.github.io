@@ -48,7 +48,10 @@ url: http://www.sushnaith.in
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-theme: minima 
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
